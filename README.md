@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Desdeney
-- 👀 I’m interested in DJing, Web Development & Design
-- 🌱 I’m currently learning the basics of VueJS
-- 💞️ I’m looking to collaborate on cool projects.
+- 👀 I’m interested in Web Development & Design
+- 🌱 Actually into Svelte & VueJS.
 - 📫 How to reach me: fabian.ernst@yousic.net
